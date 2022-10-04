@@ -7,7 +7,6 @@ import {sortByDate} from '../utils'
 
 
 export default function Home({posts}) {
-  console.log(posts)
   return (
     <div >
       <Head>

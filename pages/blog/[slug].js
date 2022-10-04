@@ -16,8 +16,8 @@ export default function PostPage({frontmatter: {title, categories, date, cover_i
     </button>
     <div className="card card-page">
         <h1 className="post-title">{title}</h1>
-        {categories.map(category => (
-        <div className="post-category" onClick={() => router.push(`/category/${category}`)}>{category}</div>
+        {categories.map((category, index) => (
+        <div key={index} className="post-category" onClick={() => router.push(`/category/${category}`)}>{category}</div>
         ))}
         <div className="post-date">Posted on {date}</div>
         <img src={cover_image} alt="" />
