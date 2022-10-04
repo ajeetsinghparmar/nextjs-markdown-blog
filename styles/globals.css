@@ -121,6 +121,7 @@ ol {
   padding: 20px;
   margin: 20px 0;
   line-height: 2.3;
+  overflow: scroll;
 }
 
 @media (max-width: 500px) {
