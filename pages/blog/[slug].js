@@ -3,15 +3,22 @@ import matter from 'gray-matter'
 import Link from 'next/link'
 import path from 'path'
 import { marked } from 'marked'
+import { useRouter } from 'next/router'
 
-export default function PostPage({frontmatter: {title, date, cover_image}, slug, content}) {
+export default function PostPage({frontmatter: {title, categories, date, cover_image}, slug, content}) {
+
+    const router = useRouter()
+
   return (
     <>
-    <Link href='/'>
-        <a className="btn btn-back">Go Back</a>
-    </Link>
+    <button className='btn btn-back' onClick={()=>router.back()}>
+        <a>Go Back</a>
+    </button>
     <div className="card card-page">
         <h1 className="post-title">{title}</h1>
+        {categories.map(category => (
+        <div className="post-category" onClick={() => router.push(`/category/${category}`)}>{category}</div>
+        ))}
         <div className="post-date">Posted on {date}</div>
         <img src={cover_image} alt="" />
         <div className="post-body">

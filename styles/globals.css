@@ -97,6 +97,17 @@ header a {
   padding: 3px 10px;
 }
 
+.post-category {
+  background: #2e2b2b;
+  width: max-content;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 3px;
+  cursor: pointer;
+
+}
+
 .post-body ul,
 ol {
   font-size: 110%;
@@ -116,4 +127,8 @@ ol {
   .posts {
     grid-template-columns: 1fr;
   }
+}
+
+.link {
+  cursor: pointer;
 }

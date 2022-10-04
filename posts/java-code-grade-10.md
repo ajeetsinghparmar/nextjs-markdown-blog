@@ -1,5 +1,6 @@
 ---
 title: 'Java Code Grade 10'
+categories: ["java", "coding"]
 date: 'March 3, 2022'
 excerpt: 'This is code for Half Yearly Exam of Java for Grade 1-0'
 cover_image: '/images/posts/img2.jpg'

@@ -1,5 +1,6 @@
 ---
 title: 'Title Test Post'
+categories: ["mathematics", "homework"]
 date: 'Oct 3, 2022'
 excerpt: 'This is excerpt'
 cover_image: '/images/posts/img1.jpg'
