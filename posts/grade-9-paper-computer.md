@@ -97,7 +97,7 @@ CLASS- IX
 
 ## 
 
-## SECTION : B (40 Marks) 
+## SECTION : B (60 Marks) 
 
 ## Do any four questions
 

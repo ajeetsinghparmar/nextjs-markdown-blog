@@ -1,9 +1,9 @@
 ---
-title: 'Grade 9 Paper Computer'
+title: 'Grade 5 Paper Computer'
 categories: ["exam", "coding", "paper"]
 date: 'Oct 12, 2022'
 excerpt: 'Here is the exam paper questions of Grade 9 conducted on October 12, 2022.'
-cover_image: '/images/posts/img6.jpg'
+cover_image: '/images/posts/img7.jpg'
 ---
 
 **HALF YEARLY EXAMINATION 2022**
