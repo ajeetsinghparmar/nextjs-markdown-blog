@@ -10,7 +10,7 @@ export default function Home({posts}) {
   return (
     <div >
       <Head>
-        <title>Next Blog</title>
+        <title>Learn With Ajeet</title>
       </Head>
 
       <div className="posts">

@@ -5,7 +5,7 @@ export default function Header() {
     <header>
         <div className="container">
             <Link href='/' passHref>
-                <h2 className='link'>Dev Blog</h2>
+                <h2 className='link'>Learn With Ajeet</h2>
             </Link>
         </div>
     </header>
