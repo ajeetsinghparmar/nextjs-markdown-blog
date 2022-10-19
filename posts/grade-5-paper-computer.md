@@ -2,7 +2,7 @@
 title: 'Grade 5 Paper Computer'
 categories: ["exam", "coding", "paper"]
 date: 'Oct 12, 2022'
-excerpt: 'Here is the exam paper questions of Grade 9 conducted on October 12, 2022.'
+excerpt: 'Here is the exam paper questions of Grade 5 conducted on October 12, 2022.'
 cover_image: '/images/posts/img7.jpg'
 ---
 
@@ -47,19 +47,19 @@ Q.1. Choose the correct answer 5
 
  (ii) Which of the following software is known as the heart of a computer system ?
 
- (a)MS paint (b) MS word (c) Operating System 
+ (a)MS paint (b) MS word **(c) Operating System** 
 
  (iii) Which Of the following is not an example of operating system ?
 
- (a) Google Chrome (b) Google Android (c) Microsoft Windows 
+ (a) Google Chrome (b) Google Android **(c) Microsoft Windows** 
 
  (iv) On which tab is the page number button present on the ribbon ?
 
- (a) Design tab (b) Home tab (c) Insert tab 
+ (a) Design tab (b) Home tab **(c) Insert tab** 
 
  (v) What is the shortcut key to set the left indent ?
 
- (a) Ctrl + N (b) Ctrl + H (c) Ctrl + M 
+ (a) Ctrl + N (b) Ctrl + H **(c) Ctrl + M** 
 
 ## 
 
@@ -67,11 +67,11 @@ Q.2. Fill in the blanks 5
 
  (i) The columns button is present on the………. tab.
 
- (ii) By default the pages in a word document are in ………… orientation.
+ (ii) By default the pages in a word document are in **portrait** orientation.
 
- (iii) …………… is the latest version of windows operating system.
+ (iii) **Windows 11** is the latest version of windows operating system.
 
- (iv) The default view in the control panel is ………….. view.
+ (iv) The default view in the control panel is **category** view.
 
  (v) The ………... was the first mechanical calculator.
 
@@ -79,27 +79,27 @@ Q.2. Fill in the blanks 5
 
 Q.3. Write True or False 5
 
- (i) A smart phone is an example of mini computer.
+ (i) A smart phone is an example of mini computer. **False**
 
- (ii) Windows 10 operating system can run only on desktops.
+ (ii) Windows 10 operating system can run only on desktops. **False**
 
- (iii) You can see control panel in three different views.
+ (iii) You can see control panel in three different views. **True**
 
- (iv) The page number button is present on the Home tab.
+ (iv) The page number button is present on the Home tab. **False**
 
- (v) ab<sub>2</sub> is an example of subscript.
+ (v) ab<sub>2</sub> is an example of subscript. **True**
 
 ## 
 
 Q.4. Match the columns 5
 
-| |A | B |
-|--|--|--|
-|(i)| Smart phone | Control panel |
-|(ii)| Change date and time | Home tab |
-|(iii)| Header and footer | Micro computer | 
-|(iv)| Subscript and superscript | George Boole | 
-|(v)| Boolean algebra | Insert tab |
+| |A | B | Answers |
+|--|--|--|--|
+|(i)| Smart phone | Control panel | ii |
+|(ii)| Change date and time | Home tab | iv |
+|(iii)| Header and footer | Micro computer | i | 
+|(iv)| Subscript and superscript | George Boole | v |
+|(v)| Boolean algebra | Insert tab | iii |
 
 ## 
 

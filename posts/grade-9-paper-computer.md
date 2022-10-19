@@ -115,11 +115,11 @@ Q.7. Write a program to input a sentence and convert it into uppercase and displ
 
         Output: India 
 
-        Is 
+                Is 
 
-        My 
+                My 
 
-        Country 
+                Country 
 
 Q.8. Write a program to create a class with two variables and one method ?  15
 
